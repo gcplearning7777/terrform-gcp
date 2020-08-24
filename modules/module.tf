@@ -7,9 +7,7 @@ provider "google" {
 
 module "cloudfunction" {
 	source = "../resources"
-	source-code-uploader 		= "source-code-uploader"
-	feedFileDropzone  		= "drop-feed-file"
-	archivedZipName			= "sourceCode"
+	
 	cloudFunctionName		= "dataFlowTriggerer"
 	runtime				= "nodejs10"
 	entrypoint		        = "processDataflow"
