@@ -1,0 +1,41 @@
+How to install gcloud:
+
+intall sdk	
+	extract the zip
+	install.bat--->To use the Google Cloud SDK, you must have Python installed and on your PATH
+	
+Python installation
+	:I was not able to install latest python as my version of windows os(Windows 7)didnt support that
+	downloaded and started installing python-2.7.18.amd64.msi
+	:install and set Path(explained below)
+Test
+	:go to command prompt and hit gloud to check if tats working.
+
+
+
+Path:go to env-->user variables-->Name:CLOUDSDK_PYTHON-->Value:C:\Python27\python.exe
+
+
+
+Install Terraform:
+	:install zip
+	:Add terraform to the env path
+	:go to env-->add the path to the folder of the terraform exe.
+	:test -->terraform -v
+	
+
+--------------------Setup is complete now------------------
+
+
+Gcloud configuartion
+	:gcloud init --console-only and then log in to your account.
+	create application default credentials and provided them in the terraform class path as credentials.
+	
+create application default credentials
+	:excecute --> gcloud auth application-default login
+	:save the file as account.json in terraform project
+
+
+Create terraform
+	:terraform init in modules
+	:terraform apply --auto-approve
