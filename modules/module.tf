@@ -5,11 +5,9 @@ provider "google" {
   
 }
 
-module "cloudfunction" {
+module "redis" {
 	source = "../resources"
 	
-	cloudFunctionName		= "dataFlowTriggerer"
-	runtime				= "nodejs10"
-	entrypoint		        = "processDataflow"
-	event_type 			= "google.storage.object.finalize"
 }
+
+
