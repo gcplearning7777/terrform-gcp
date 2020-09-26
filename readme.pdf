@@ -1,0 +1,233 @@
+04144- 238043 
+238047
+238610
+
+
+osi model :merits and demerits
+https://www.studytonight.com/computer-networks/complete-osi-model--osi 
+
+
+network topologies
+https://www.tutorialspoint.com/data_communication_computer_network/computer_network_topologies.htm
+
+
+network hardware
+https://www.bbc.co.uk/bitesize/guides/zh4whyc/revision/5
+
+
+WAN
+https://searchnetworking.techtarget.com/definition/WAN-wide-area-network
+
+The TCP/IP Reference Model
+https://www.studytonight.com/computer-networks/tcp-ip-reference-model
+
+stop and wait protocol
+https://afteracademy.com/blog/what-is-stop-and-wait-protocol
+
+Congestion Control and its prevention policies
+https://www.techtud.com/short-notes/congestion-control-and-its-prevention-policies
+
+
+traditional crytography 
+
+https://homepages.cwi.nl/~schaffne/courses/infcom/2014/reports/Julian_Olaf_traditional-cryptography.pdf
+
+
+
+The goal of a traditional cipher is to scramble a plaintext in such a way that
+any interceptor of this cipher text can’t make heads or tails of it. This encryption process should be designed to have a decryption process which reverses the
+encryption so the intended receiver can receive the cipher text, decrypt it, and
+read the original plaintext. A practical consequence of this is that before communicating any encrypted message the sender and receiver should have agreed
+upon encryption method. To be able to reuse encryption methods, different
+keys are used which alter the encryption process slightly so any non-intended
+receiver won’t be able to decipher the cipher text easily even if he/she knows
+the encryption and decryption method. This key should also be communicated
+between sender and intended receiver and this is one of the weaknesses of a
+traditional cipher
+
+modern encryption
+https://www.w3schools.in/cyber-security/modern-encryption/
+
+
+
+Need for network management
+https://www.ques10.com/p/41292/why-do-we-need-network-management-1/
+
+
+
+Novell netware
+https://www.geeksforgeeks.org/introduction-of-novell-netware/
+
+TCP Connection Establishment
+https://www.geeksforgeeks.org/tcp-connection-establishment/
+
+
+What is the Internet Protocol (IP)?
+The Internet Protocol (IP) is a protocol, or set of rules, for routing and addressing packets of data so that they can travel across networks and arrive at the correct destination. Data traversing the Internet is divided into smaller pieces, called packets. IP information is attached to each packet, and this information helps routers to send packets to the right place. Every device or domain that connects to the Internet is assigned an IP address, and as packets are directed to the IP address attached to them, data arrives where it is needed.
+
+Once the packets arrive at their destination, they are handled differently depending on which transport protocol is used in combination with IP. The most common transport protocols are TCP and UDP.
+
+
+https://www.w3.org/People/Frystyk/thesis/TcpIp.html
+
+
+
+
+
+
+classless interdomain Routing
+https://www.keycdn.com/support/what-is-cidr
+
+connection oriented and connection less services.
+https://www.geeksforgeeks.org/difference-between-connection-oriented-and-connection-less-services/
+
+
+Choke Packet Technique
+https://www.geeksforgeeks.org/congestion-control-techniques-in-computer-networks/
+
+---------------------------------------------------------------------------
+https://www.annamalaiuniversity.ac.in/dde/oldqp/dec14/7578.pdf
+https://www.annamalaiuniversity.ac.in/dde/questdisp.php?cc=136&tname=may15
+C:\Users\ayk2\Desktop\VERIFIER-API\7224.doc
+
+
+design issues in data link layer
+https://www.geeksforgeeks.org/design-issues-in-data-link-layer/
+
+distance vector algorith
+https://www.geeksforgeeks.org/distance-vector-routing-dvr-protocol/
+
+differnece between tcp and udp
+https://www.geeksforgeeks.org/tcp-and-udp-in-transport-layer/?ref=rp
+
+
+
+
+
+
+
+
+
+
+computer management tasks
+https://www.moneycrashers.com/computer-maintenance-tips-checklist/
+
+network disaster planning.
+https://www.nakivo.com/blog/create-effective-network-disaster-recovery-plan/
+
+protocol hierarchies of network software
+https://www.tutorialspoint.com/Protocol-and-Protocol-Hierarchies
+
+ARPANET
+https://www.geeksforgeeks.org/arpanet-full-form/#:~:text=ARPANET%20was%20first%20network%20which,among%20an%20institute%20or%20university.
+
+two sliding window protocols
+https://www.javatpoint.com/sliding-window-protocol
+
+Transmission Control Protocol or tcp protocol
+https://www.tutorialspoint.com/data_communication_computer_network/transmission_control_protocol.htm
+
+Network management components
+https://blog.gigamon.com/2019/03/21/what-is-network-management/
+
+email privacy
+https://en.wikipedia.org/wiki/Email_privacy#:~:text=Email%20privacy%20is%20a%20broad,or%20on%20a%20user%20computer.
+
+digital signature
+https://www.javatpoint.com/computer-network-digital-signature
+
+Local area network or LAN
+https://www.geeksforgeeks.org/lan-full-form/
+
+https://www.annamalaiuniversity.ac.in/dde/questdisp.php?cc=136&tname=dec14
+https://www.annamalaiuniversity.ac.in/dde/oldqp/dec14/7578.pdf
+
+
+
+
+
+
+Explain the concept of data flow oriented design with examples. 
+
+
+decision table
+https://reqtest.com/requirements-blog/a-guide-to-using-decision-tables/#:~:text=Let's%20take%20an%20example%20scenario,table%20would%20be%20of%20use.&text=In%20a%20decision%20table%2C%20conditions,will%20result%20in%20the%20actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9171761312  sanskari 
+arul anand-9442353711
+
+candidate number :1361905123
+abijith y kamath
+
+abikamath2@gmail.com
+9446162317
+
+
+
+
+codinator 
+controller examination
+annamalia university
+annamalai nagar
+chithambaram
+pin:608002
+
+
+student list
+
+
+
+exam number:136M20085200098
+reg number:1361905123
+
+
+
+cordinators list :http://audde.in/feepdf/coor_dde.pdf
+
+
+programme name :PG DIPLOMA IN COMPUTER APPLICATIONS
+COURSE CODE: 136
+exam number:136M20085200098
+
+610
+COMPUTER NETWORKS
+Saturday 26th September 2020
+620
+JAVA PROGRAMMING
+Monday 28th September 2020
+630
+WEB DESIGN
+Tuesday 29th September 2020
+640
+SOFTWARE ENGINEERING
+
+
+
+Action items
+First page template--download
+on each page :136M20085200098-1,136M20085200098-2
+name of the file : 136M20085200098-136-PG DIPLOMA IN COMPUTER APPLICATIONS
+
+
+Address to send :
+codinator 
+controller examination
+annamalia university
+annamalai nagar
+chithambaram
+pin:608002
